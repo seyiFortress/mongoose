@@ -1,5 +1,5 @@
 /**
- * Module dependencies.
+ * Learn Module dependencies.
  */
 
 'use strict';
